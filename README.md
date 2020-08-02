@@ -34,6 +34,16 @@ Each issue has a 32 bit image in the original Squeak interpreter format named `e
 
 In this version, the segment files are fetched on demand using SqueakJS's templating mechanism. Each directory has a `sqindex.json` file created by running [mkindex](https://github.com/codefrau/SqueakJS/blob/main/utils/mksqindex.py).
 
+## Peeking behind the scenes
+
+The Ezine images are configured to use simplified menus and halos. They are otherwise full Squeak images.
+
+Open the "Juggle With Squeak" project to get the regular Squeak world menu with full access to development tools.
+
+Modify `EzineEntryMorph>>hijackMenus` to allow full menus in any project.
+
+Execute `Preferences resetHaloSpecifications` to get the default Morphic halo handles back.
+
 ## Contributing
 
 Contributions to the HTML / Javascript parts are very welcome. In particular, the CSS/HTML could be a lot prettier, especially on mobile devices.
