@@ -1,0 +1,103 @@
+Volume 1, Issue 4. 15 October 2001
+
+Powerful Ideas in the Classroom
+
+Editor's Note
+
+Monthly News:
+
+	This month's news include summaries of the activity of the Squeak list and John McIntosh's OOPSLA trip reports.
+
+Monthly digest of the Squeak Mailing list by Bijan Parsia
+
+	Every month Bijan summarizes the Squeak mailing list painstakingly by organizing postings under threads with commentary using home-bred tools that he developed. (and explained some of them in the July issue) If you are busy and can't follow the fast pace of the Squeak list this is the column to read! This section will be emailed to our email subscribers as well as posted on the on the web.
+
+OOPSLA Trip Reports by John McIntosh
+
+	John is an avid follower and documenter of almost every event. We asked if he would allow his excellent OOPSLA trip reports that are published on his site to be included in Squeak News and he kindly allowed us to include them with the Squeak News e-zine. Once we merged these reports with pictures of Michael Rueger it turned out to be a lively digest, just like if you were there!
+
+Features
+
+Stronger Goals for Education by Alan Kay
+
+	In this article Alan defines stronger goals for education and explains the role of Squeak in this picture. A must read for all parties who have an interest in education.
+
+Treasures Unearthed: Alan Kay's Active Essays and Articles
+
+	We used this opportunity to feature many of Alan's past articles and active essays. As always Alan was very generous in allowing us to reprint these immense treasures in our colorful format and we have tried to illustrate them a little as well.
+
+Authoring by Alan Kay
+
+	This is the introduction published on SqueakLand.org. It is a short but a very powerful article summarizes the purpose and the origin of Squeak
+
+EToys and SimStories in Squeak by Alan Kay
+
+	This is a well known active essay by Alan Kay also featured on SqueakLand.org. In this active essay Alan shows us how simple scripting can be used to explain ideas that can't easily be explained. It explains the power of the Etoy system, the concept of active essays, why Etoys are important to science and math, and how Etoys are envisioned to be used in such active essays to even encyclopedias. A must read and should be in the pockets of every trainer!
+
+Computers, Networks and Education by Alan Kay
+
+	In this classic originally printed in Scientific American in September 1991 issue Alan
+
+Science Already IS Art! by Alan Kay
+
+	A short and sweet article originally written for The San Jose Museum of Technology brochure.
+
+	We will also publish more of Alan Kay's articles next month
+
+Squeak in the Open Charter School by B.J. Allen-Conn
+
+	B.J. has been involved in teaching children about interactive computing environments since 1986. Benefit from her experience in teaching Squeak to children. There are several examples of students of the Open Charter School. Be sure to check them all.
+
+The Big Race! by Open Charter School students
+
+	Don't miss this Grand Prix of cars developed by students racing to capture the elusive championships. The creativity of students shine when cars of all colors and shapes take on each other at the track!
+
+Interactive Web-based Modeling and Explorations by Naala Brewer
+
+	In this article Naala details her interactive web-based explorations with students during the course of her teaching of interactivity through Squeak.
+
+Etoy examples by various students
+
+	Cool examples of ingenious usage of Squeak Etoy system by students in 4th and 5th grades in the Open Charter School. Be inspired by their creativity!
+
+School Squeaking by Cathleen Galas
+
+	Cathleen teaches at the Seeds University Elementary School, which is the laboratory school for the Graduate School of Education and Information Studies, UCLA. As a teacher already experienced in introducing kids to the Microworlds logo she details her experience with Squeak and Squeak's advantages over other systems. Her illuminating observations and student feedback make an excellent case for Squeak's use in the classroom.
+
+Youngest Users of Squeak Speak
+
+	Feedback by some of the youngest users of Squeak
+
+Etoys: Squeak as an Authoring System for Kids (and Kids at Heart!!)
+
+	We feature every tutorial we can find about the Etoy system by various authors. Enjoy them all!
+
+Squeak News Exclusive Interview with Kim Rose
+
+	This month we had a chance to talk to Kim Rose (co-Director of the Viewpoints Research Institute: now home of Squeak Central, long term member of the Squeak Central, co-editor of the book Squeak: Open Personal Computing and Multimedia) in depth about how she got involved in computing and Squeak, media and cognitive science, her interest and efforts in Squeak and kids, Apple days, Disney days, and post Disney. This month we will publish Part 1 of this 3 part series.
+
+Plugging in Squeak by Michael Rueger
+
+	In this article Michael takes us from the beginning and tells us how the Squeak plug-in came to life, where was it first used, how is it used and what is and what is not in the pipeline.
+
+	As a courtesy to our subscribers we include the plug-in installers for various platforms for you to save you some download time.
+
+From objects to classes by Tansel Ersavas
+
+	This article is the third installment of a series about Squeak that aims to take a person from the beginner stage to the level of a highly sophisticated programmer during the course of this (long) series. In this article, Tansel explains the concept of a class, how classes and objects are related, and how classes are related to each other.
+
+A Minimal Multimedia Manager for PDAs and Kiosks by Tansel Ersavas
+
+	This article will be published on our SWiki later due to heavy commitments and health problems of the author. We apologize.
+
+Juggle with Squeak by Tansel Ersavas
+
+	In this part of the series Tansel finishes the demo and packages it with a gift wrap!
+
+Little Butterfly
+
+	A little poem by a very sweet girl!
+
+Squeak's Most Wanted List
+
+	Starting this issue we will create a "Most Wanted list" for Squeak and offer some rewards. Since it will be on an SWiki page you are free to add your "most wanted feature or function" to the list. In every issue of Squeak we will recite the top of the list, newcomers to this list and report progress if any. This month there is a grand challenge: Target:Advance

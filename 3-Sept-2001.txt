@@ -1,0 +1,79 @@
+Volume 1, Issue 3. 15 September 2001
+
+In this issue:
+
+Squeak for a Better World!
+
+	We changed our theme to Squeak for a Better World after the tragic events of September 11. Read all about the shock, frustrations and ideas about Squeak for a better world.
+
+Focus: Multimedia
+
+	There is a lot in Squeak News this month. Close to the end of this month is the 5th anniversary of the day Squeak was placed on the Internet for the rest of the world to enjoy and we e-talked with Dan Ingalls about this most important event. The focus of this issue is Squeak and Multimedia and we have a significant amount of content about the subject. We feature two interactive demos: Squeak Cinema: A demo of the Squeak MPEG player, and SqueakAmp: The Squeak MP3 player. In addition we feature an article about the MPEG player of Squeak by John McIntosh, the full set of the active essays on studying computer music by Mark Guzdial and an article about PhotoSqueak by Juan Manuel Vuletich. Karl Ramberg's contribution is a short active essay about Art and Computers. Our beginners series focus is objects, messages and beyond. An example of system level programming in Squeak is given in the article "The SqueakNOS keyboard". We also solicited an article about one of the recent developments about Squeak GemStone connectivity and we are happy to feature this article about GemSqueak.
+
+Squeak Related News
+
+	This month's news include an E-view with Dan Ingalls, summaries of the activity of the Squeak list and John McIntosh' Essen STUG reports.
+
+Squeak's 5th Birthday! An e-view with Dan Ingalls
+
+	After looking at all the evidence we decided that the 25th September 1996 was the day Squeak was unleashed to us mortals (incidentally after about 9 months of incubation)! We declared this day to be Squeak's "birth" day. We asked Dan about that day, a little earlier, and a little later, and Dan answered!
+
+Monthly digest of the Squeak Mailing list by Bijan Parsia
+
+	Every month Bijan summarizes the Squeak mailing list painstakingly by organizing postings under threads with commentary using home-bred tools that he developed. (and explained some of them in the July issue) If you are busy and can't follow the fast pace of the Squeak list this is the column to read! This section will be emailed to our email subscribers as well as posted on the on the web.
+
+The World of Squeak: Objects, Messages and Beyond by Tansel Ersavas
+
+	This article is the second installment of a series about Squeak that aims to take a person from the beginner stage to the level of a highly sophisticated programmer during the course of this (long) series. In this article, Tansel explains the basic concepts of Squeak such as objects, messages and relationships between objects.
+
+Active Essays for Studying Computer Music by Mark Guzdial
+
+	If Mark Guzdial isn't an institution, he should be made into one. Author/instigator/editor of the two current Squeak books, hacker of PWS & the original Swiki, hoster of Swikis, teacher of Squeak... He, his students, and his classes are always throwing out cool stuff for the rest of us. For his class on "Computer Music Implementation", he wrote a series of active essays, which cover everything from the built in Squeak sound tools to MIDI. Aside from being nicely written/constructed on interesting topics -- i.e., an enjoyable read -- they are great examples of active essays. Mark was kind enough to let us feature the entire series in Squeak News with a bonus introduction that puts these great active essays in perspective.
+
+MPEG: Finding a Fit by John McIntosh
+
+	Among all these activities that keeps us all informed about what is going on around the world, John found the time to write about that magical plug-in that enables us to play highly compressed video and from within the comforts of Squeak.
+
+Squeak Cinema
+
+	A showcase of the MPEG player and some of Squeak's presentation abilities. It 	features a trailer of a movie to be released next year by 20th Century Fox (C) 	20th. Century Fox. The main feature is named "The Killer Bean Part 2, The Party" 	short masterpiece by Jeff Lew, slighltly over 6 minutes. This is an animation 	fully done by the author himself in 3 years on one computer. After the movie 	was released on the net it was downloaded more than 1 million times and 	helped him to join to the ranks of Hollywood's magic makers and he has been 	involved in movies such as the Matrix and the Matrix 2. We wish to advise our 	audiance that the movie contains strong violance and people who can't watch 	coffee beans destroyed should refrain from watching the movie. Sorry? What? No 	we don't have any grudges against coffee in any shape and we haven't hired 	the killer bean for any jobs.
+
+SqueakAmp: Squeak's MP3 player
+
+	A demonstration of the MP3 playback ability of Squeak that is written by Bob 	Hartwig using the MPEG plug-in.
+
+Art, Computers by Karl Rambers
+
+	Karl tosses questions about Art and Computers and starts experimenting in this 	short and sweet active essay...
+
+The Conclusion of our In-depth Interview with John Maloney
+
+	In the conclusion of this in-depth interview, we talked with John about Morphic, how it differed from the original Self Morphic, and what is in the crystal ball for Morphic. We also talked about the Disney days, some projects that John got involved and more...
+
+The Squeak Keyboard: An Introduction to Low Level Programming in SqueakNOS:
+	by the SqueakNOS team
+
+	This article explains how Squeak handles keyboard programming from within 	SqueakNOS. Don't try this code at home! It will only work within SqueakNOS.
+
+PhotoSqueak: An Image Processing Framework by Juan Manuel Vuletich
+	What started as a school project may well turn out to be a powerful general 	purpose digital image processing system for Squeak. Learn all about it.
+
+GemSqueak: A Full Functional GemStone Client by Valeria Murgia
+
+	GemSqueak is a full featured and full functional GemStone client. Valeria Murgia 	with collaboration by Leandro Caniglia explains this exciting project. Keep an eye 	for their SqueakAttic OODB project as well.
+
+Book Summary: Squeak's First Book and Multimedia
+
+	This is the first book summary published in Squeak News and naturally it is 	about the first book on Squeak ever published.
+
+Globe by Torsten Bergmann
+
+	A cool demo of 3D on a background created by the author.
+
+Juggle with Squeak by Tansel Ersavas
+
+	In this part of the series Tansel beautifies the Juggling Scene and explains how to create a simple user interface for the Juggling demo.
+
+Squeak quiz with surprize rewards
+
+	This month we will not have a Squeak quiz, instead we are preparing a Squeak Challenge

@@ -1,0 +1,66 @@
+Volume 1, Issue 2. 15 August 2001
+
+Squeak for Beginners !
+
+In this issue:
+
+Focus on Beginners
+
+	Starting with this issue we will focus on beginners and every issue of Squeak News will feature at least one article targeted at beginners. This month we feature two articles that would help beginners. You will also find in this issue very interesting articles about hardware that can run Squeak, a very interesting user interface framework for UI development specifically tailored towards PDAs and Kiosk style applications. The Squeak Tweaks corner will feature a quickie HTML editor. For the diehards who are determined to rip the operating system under Squeak the current installment of the SqueakNOS series is "Story of the Quake Packet". You will also find the conclusion of the Juggling article and continuation of our in-depth interview with John Maloney.
+
+Squeak Related News
+
+	This month's news include summaries of the activity of the Squeak list and the Squeak foundation list and our report on fun new hardware to play with Squeak
+
+Monthly digest of the Squeak Mailing list by Bijan Parsia
+
+	Every month Bijan summarizes the Squeak mailing list painstakingly by organizing postings under threads with commentary using home-bred tools that he developed. (and explained some of them in the July issue) If you are busy and can't follow the fast pace of the Squeak list this is the column to read! This section will be emailed to our email subscribers as well as posted on the on the web.
+
+Mean Squeak Machines
+
+	In these articles we chase our DynaBook dreams and look at some of the latest systems from super PDAs to desktop units that can run Squeak happily.
+
+Cool Peripherals
+
+	We also investigate some peripherals that can enhance our Squeak experience from tablet-screens to solid-state USB disk units that are attached to key-rings.
+
+How to Begin Squeak by Tansel Ersavas
+
+	This article is the first of a series about Squeak that aims to take a person from the beginner stage to the level of a highly sophisticated programmer during the course of this (long) series. In this article, Tansel outlines basic concepts of object oriented approach and Squeak. He emphasizes differences between Squeak and most other languages, explains why it is harder for people who have been exposed to other languages to learn Squeak and suggests strategies that would accelerate the learning process.
+
+An Approach for Teaching and Learning Squeak by Michael Guenter
+
+	Michael brings us the experience of a teacher and proposes an approach for learning and teaching Squeak. He defines different kinds of newbies and discusses best approach for them and elaborates on his "study buddies" idea which has already attracted interest.
+
+Control your Submorphs by Ted Kaehler and Andreas Raab
+
+	In this active article Ted and Andreas take us to a tour of the new layout mechanism of morphs recently introduced to Squeak by Andreas Raab. As nicely stated by Ted: "Why talk about something when you can see it in action", this article will come to life when playing with it very true to the soul of Squeak News.
+
+The second part of an In-depth Interview with John Maloney
+
+	In the second part of this in-depth interview, John talks about the Apple days, the birth of Squeak, how Squeak became on open source project, and how his expectations were exceeded with community support. We also discussed with him about the past life of Morphic before Squeakt.
+
+A Minimal User Interface Toolkit for PDAs and Kiosks by Tansel Ersavas
+
+	In this article Tansel introduces us to a very basic set of tools that help us implement simple user interfaces especially suitable for point and click applications. These applications are more likely to be useful on environments where using Morphic is not feasible such as small PDAs and Kiosk applications that operate on hardware with limited resources and where the input is limited to a touch screen or stylus input.
+
+Story of a Quake Packet by the SqueakNOS team
+
+	Do you know what these naughty people at the SqueakNOS team do when their workmates go into a frenzy of playing Quake? They peep the network activity using nothing other than their naughtier collaborator Squeak! Read this captivating story of intrigue and deception, and find out all about those Quake packets that lurk at your network pipes while people are playing Quake!.
+
+Squeak Tweaks: A Quickie HTML Editor by Bijan Parsia
+
+	In this corner of the e-zine, Bijan shows us how to tweak Squeak with interesting insights.
+	In this article Bijan has a go at a quickly put together HTML editor which could be the beginning of a HTML editor liberator!
+
+Juggle with Squeak by Tansel Ersavas
+
+	In this part of this series Tansel finally puts his act together (almost), both about juggling, and finishing this tutorial, and the rest of the people can finally juggle. He still has to write about the beautification process though.
+
+Squeak Documentation initiative
+
+	Squeak Documentation initiative is a Squeak News sponsored activity that will continue with this issue. This month's initiative will be discussed on our documentation SWiki later when the documentation SWiki is up and running.
+
+Squeak quiz with surprize rewards
+
+	Every month, we have a question that addresses a specific problem and collect all answers. We will then publish selected answers and declare one as the "editor's choice". The person who sent the selected solution will receive a mystery reward from us.

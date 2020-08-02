@@ -1,0 +1,1 @@
+'From Squeak3.1alpha of 4 July 2001 [latest update: #4173] on 7 August 2001 at 11:21:33 pm'!Smalltalk condenseChanges.!Preferences installHaloTheme: #hijackHaloSpecs.loggedOn _ false.!----QUIT----#(7 August 2001 11:22:22 pm) priorSource: 93!

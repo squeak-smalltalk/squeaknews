@@ -1,0 +1,85 @@
+Volume 1, Issue 1. July 2001
+
+Cover Page
+
+	Did you have fun with our cover page? We certainly did. A little heavy with animation, a little slow on slower machines, but still enjoyable. So if at any point you would like to return to it please feel free.
+
+Our First Issue
+
+What On Earth Are We Doing?
+
+	Well, now you know. Read all about it in this editorial note.
+
+This month in the Squeak World
+
+	This month's news include summaries of the activity of the Squeak list and the Squeak foundation list. Squeak in the press and Squeak Central's new move is high on the agenda.
+
+Mini E-View with Dan Ingalls
+
+	Do not miss this mini E-view with Dan Ingalls about the latest move of Squeak Central and future of Squeak!
+
+A Most Unusual Method Finder
+
+	In this essay Ted takes us through the Method finder and the idea behind it. Ted explains how he started writing the method finder, how it works, how the symbol table is searched, how "methods by example" works and how method finder handles an exhaustive search without causing any damage to the system.
+
+Interview with John Maloney
+
+	Part 1: Before Apple
+
+	In the first part of this in-depth interview, we talked with John about the early days: how he started working with Smalltalk, his early Xerox days, the origins of Celeste, his experience with other systems, constraint based programming, Self and the birth of Morphic.
+
+VMMaker - a tool to make VM making simpler
+
+	In this article, Tim explains the VmMaker and the motive behind it. Tim's VmMaker makes the process of generating VMs much easier. Tim explains the usage of VmMaker and he states possible enhancements to it.
+
+The Foundations of SqueakNOS
+
+	SqueakNOS is an ambitious project that aims to strip that useless huge nappy padded underwear of computers that is called an "operating system" and replace it with a layer all written in Squeak! Here the SqueakNOS team explain how they intend to do it, what they have done so far, how they have done it, and what they aim to do.
+
+Squeak Tweaks: Celeste as a Mailing List Summarizer
+
+	In this corner of the e-zine, Bijan will show us how to tweak Squeak with interesting insights.
+
+	In his first article Bijan takes Celeste and turns it into a mail list summarizer! He explains the need for the mail summarizer (after all he volunteered for the Squeak News monthly email summaries!) and step by step explains how Celeste is turned into a handy mail summarizer sidekick. After reading this article you will have a good idea about how he can categorize and sift through the enormous amount of email that Squeak list generates with a little help from his new Celeste-MLS!
+
+Squeak Documentation Initiative
+
+	Squeak Documentation initiative is a Squeak News sponsored activity that will start with this issue. Here we will explain mechanisms and ask for volunteers for this initiative. The goal is to create a giant living reference manual and a reference server that any Squeak that is on the net can hook up to and access to on-line documantaion. This documentation will be in a form that can be embedded in any image and will have built in mechanisms to update itself when changes are made and post these updates to a central server or other peers. Another useful document is a user guide which will also be semi-automatically generated. Documentation swiki pages will be used to capture most additions and modifications to the documentation. More details will soon be available from the Squeak News site.
+
+Fun with Squeak: Learn to Juggle with Squeak
+
+	In this article Tansel takes you to a journey that will juggle two things at once: learning juggling while writing a tutorial that teaches juggling. It is a meta-juggling tutorial that is a lot of fun. Most aspects of juggling from choosing the right balls to how not to juggle with raw eggs are clearly illustrated with animated examples
+
+Squeak Notebook
+
+	A little example of how a SqueakBook can look like a notebook
+
+Best of Bob's SuperSwiki: Squeak or How the Mouse Roars
+
+	Each month we will feature a project published in Bob's super Swiki or other public Super Swikis. This month we feature the first part of Torsten Bergman's HTMR: Squeak or How the Mouse Roars' series.
+
+Squeak Graphics
+
+	Graphics created by Ali Chamas using Squeak captured the attention of many people and some of these graphics were featured in web sites such as flipcode.com. See them yourself.
+
+This Month's Quiz: Detecting an Alarm via Email from a Remote Location
+
+Tributes: Pat Caudill and Jerry Archibald
+
+	This month we have lost 2 Smalltalkers. Pat Caudill (1945-2001) passed away June 14, 2001, and Jerry Archibald (1940-2001) passed away June 22, 2001.
+
+Next Month:
+
+	Squeak for Beginners: A Series
+
+	A Minimal UI for PDAs and Kiosks
+
+	Mean Squeak Machines: A Review of Juicy Hardware to run Squeak
+
+	Fun with Squeak: Conclusion of the Juggling article
+
+	John Maloney Interview Part 2
+
+	Squeak Tweaks: A Quickie HTML Editor
+
+	and more...

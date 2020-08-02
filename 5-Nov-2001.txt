@@ -1,0 +1,55 @@
+Volume 1 Issue 5, November 2001
+
+Future Technologies that may impact Squeak
+
+Editorial
+
+The Squeak Mailing List Summary
+	Actually, this month it is not a summary, but an entire dump of all the mails in the mailing list.
+
+Future Technologies that may Impact Squeak by Tansel Ersavas
+
+	In this issue of Squeak News we decided to have a quick trip to the near future and come back with some gossip about what might impact Squeak and in what ways.
+
+Mean Squeak Machines: Futuristic Toys
+
+	Continuing our future theme is the seciton on mean Squeak machines: Futuristic toys. Enjoy them!
+
+A Simple Task Management Tool by Tansel Ersavas
+
+	This article introducs a simple task management tool which could be used as a simple project management tool as well as a task scheduling tool.
+
+Alan Kay Treasure Chest
+	In this issue we continue to publish past Alan Kay articles. This month we
+	feature two more of his famous articles.
+
+	Global Village or Global Civilization? by Alan C. Kay
+
+	Revealing the Elephant:
+	The Use and Misuse of Computers in Education by Alan C. Kay
+
+The Rolodex Tutorial by John Hinsley
+
+	Here at last John Hinsley's Rolodex Tutorial in pure Squeak!
+
+SUnit Explained by Stephane Ducasse
+
+	A clear and detailed explanation of the SUnit framework useful not only for using the framework but also discusses the issues related to the imporatnce and practicability of testing using SUnit.
+
+Squeak User Manual by Maarten Maartensz
+
+	Maarten has a real hard go at the elusive goal of documenting Squeak. His user manual is a very concrete definition of Squeak. We will publish the continuation of his efforts as well.
+
+Squeak Tweaks: Are we Still Editing HTML? by Bijan Parsia
+
+	The short answer is, yes!
+
+Squeak for Beginners: A Mini tour of Squeak's Classes
+
+	Enjoy some of Squeak's most used classes with some insider information
+
+Squeak News Exclusive Interview with Kim Rose: Part 2
+
+A Mini Utility: Auto Save Morph
+
+Season's Greetings!

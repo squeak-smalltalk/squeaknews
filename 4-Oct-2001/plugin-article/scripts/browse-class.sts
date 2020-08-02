@@ -1,0 +1,2 @@
+(Smalltalk at: (AbstractLauncher extractParameters at: 'LAUNCHCLASS') asSymbol) browse
+!  
