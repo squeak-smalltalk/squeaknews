@@ -38,4 +38,10 @@ In this version, the segment files are fetched on demand using SqueakJS's templa
 
 Contributions to the HTML / Javascript parts are very welcome. In particular, the CSS/HTML could be a lot prettier, especially on mobile devices.
 
-The Squeak parts are historical artefacts and should not be touched. Adding new issues would be awesome, of course.
+The Squeak parts are historical artefacts and should not be touched much. Then again, if little tweaks would make e.g. navigating in a web browser significantly more enjoyable, we should consider that. For example, being able to scroll using a mouse wheel or dragging would be very nice. Adding new issues would be awesome, of course.
+
+Also, some things are not yet working correctly. E.g. the MP3 audio player and MPEG video player in issue 3, or the Celeste mail archive in issue 5. These will probably have to be fixed in [SqueakJS](https://github.com/codefrau/SqueakJS). The `squeak_bundled.js` file here is a copy of the one in `SqueakJS/dist`. Rebuild it using `npm run build:bundle`.
+
+Please [report](https://github.com/squeak-smalltalk/squeaknews/issues) problems you find! And help fixing them is appreciated too, of course.
+
+See the [Squeak Community](https://squeak.org/community/) page for other options to get in touch with us.
